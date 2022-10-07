@@ -2,6 +2,6 @@ pandas
 plotly
 streamlit
 datetime
-Pydeck
+Pydeck <3.5
 Pillow
-Python <3.5
+
