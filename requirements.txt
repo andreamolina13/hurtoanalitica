@@ -3,5 +3,5 @@ plotly
 streamlit
 datetime
 Pydeck
-PIL
+Pillow
 Python <3.5
