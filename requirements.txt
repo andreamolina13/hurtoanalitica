@@ -3,5 +3,4 @@ plotly
 streamlit
 datetime
 Pydeck
-streamlit_option_menu
 PIL
