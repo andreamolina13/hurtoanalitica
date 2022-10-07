@@ -4,4 +4,4 @@ streamlit
 datetime
 Pydeck <3.5
 Pillow
-
+streamlit_option_menu
