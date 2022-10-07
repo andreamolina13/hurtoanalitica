@@ -4,3 +4,4 @@ streamlit
 datetime
 Pydeck
 PIL
+Python <3.5
