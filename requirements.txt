@@ -2,9 +2,6 @@ pandas
 plotly
 streamlit
 datetime
-openpyxl
 Pydeck
-plotly.express
-plotly.graph_objects
 streamlit_option_menu
 PIL
